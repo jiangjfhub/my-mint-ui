@@ -1,27 +1,4 @@
 {
-  "_from": "mint-ui@^2.2.13",
-  "_id": "mint-ui@2.2.13",
-  "_inBundle": false,
-  "_integrity": "sha512-Xz1SFagHSzKOprwQv3fcekXT5RJvhh939zwZHcWeazk1OJrCjsD4I2qm49AEUCfT1AoYzC+rsZIwGP/J6LwVVw==",
-  "_location": "/mint-ui",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "range",
-    "registry": true,
-    "raw": "mint-ui@^2.2.13",
-    "name": "mint-ui",
-    "escapedName": "mint-ui",
-    "rawSpec": "^2.2.13",
-    "saveSpec": null,
-    "fetchSpec": "^2.2.13"
-  },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/mint-ui/-/mint-ui-2.2.13.tgz",
-  "_shasum": "856a2cba9608c6ecf21f0e521ce89ed8ddfe33d3",
-  "_spec": "mint-ui@^2.2.13",
-  "_where": "D:\\vue_workplace",
   "author": {
     "name": "elemefe"
   },

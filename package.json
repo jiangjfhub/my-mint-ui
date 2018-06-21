@@ -74,7 +74,7 @@
     "src",
     "packages"
   ],
-  "homepage": "https://github.com/ElemeFE/mint-ui#readme",
+  "homepage": "https://github.com/jiangjfhub/my-mint-ui",
   "keywords": [
     "component",
     "vue",
@@ -89,7 +89,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ElemeFE/mint-ui.git"
+    "url": "git+https://github.com/jiangjfhub/my-mint-ui.git"
   },
   "scripts": {
     "bootstrap": "yarn || npm i",
